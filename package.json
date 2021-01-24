@@ -1,0 +1,25 @@
+{
+  "name": "bpmn-io-tasks",
+  "version": "0.0.0",
+  "description": "The bpmn.io task board application",
+  "scripts": {
+    "start": "wuffle"
+  },
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bpmn-io/tasks.git"
+  },
+  "keywords": [
+    "Wuffle Board",
+    "task",
+    "board",
+    "bpmn-io-tasks"
+  ],
+  "author": "Nico Rehwaldt <https://github.com/nikku>",
+  "license": "MIT",
+  "homepage": "https://github.com/bpmn-io/tasks#readme",
+  "dependencies": {
+    "wuffle": "^0.38.0"
+  }
+}
