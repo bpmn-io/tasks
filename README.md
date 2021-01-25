@@ -13,4 +13,4 @@ npm start
 
 ## Deployment
 
-This app is automatically deployed to [tasks.bpmn.io](https://tasks.bpmn.io/) when pushing to `master`.
+This app is automatically deployed to [tasks.bpmn.io](https://tasks.bpmn.io/) when pushing to `live`.
