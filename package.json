@@ -21,5 +21,9 @@
   "homepage": "https://github.com/bpmn-io/tasks#readme",
   "dependencies": {
     "wuffle": "^0.38.0"
+  },
+  "engines": {
+    "node": "14",
+    "npm": "6"
   }
 }
