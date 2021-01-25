@@ -1,5 +1,16 @@
 # bpmn.io tasks
 
-This is the task board project for work being done under the [bpmn.io project](http://bpmn.io).
+This repository hosts our [task board](https://tasks.bpmn.io/), powered by powered by [Wuffle](https://github.com/nikku/wuffle).
 
-You can trace everything we do per project on [GitHub](https://github.com/bpmn-io) or [on our task board](https://tasks.bpmn.io/).
+
+## Setup Locally
+
+```
+npm install
+npm start
+```
+
+
+## Deployment
+
+This app is automatically deployed to [tasks.bpmn.io](https://tasks.bpmn.io/) when pushing to `master`.
