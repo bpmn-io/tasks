@@ -1,6 +1,6 @@
 # bpmn.io tasks
 
-This repository hosts our [task board](https://tasks.bpmn.io/), powered by powered by [Wuffle](https://github.com/nikku/wuffle).
+This repository hosts our [task board](https://tasks.bpmn.io/), powered by [Wuffle](https://github.com/nikku/wuffle).
 
 
 ## Setup Locally
