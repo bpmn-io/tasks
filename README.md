@@ -14,3 +14,8 @@ npm start
 ## Deployment
 
 This app is automatically deployed to [tasks.bpmn.io](https://tasks.bpmn.io/) when pushing to `live`.
+
+
+## Configuration
+
+Access to GitHub is controlled via the [bpmn-io-tasks](https://github.com/apps/bpmn-io-tasks) GitHub app. 
