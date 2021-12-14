@@ -64,6 +64,7 @@ module.exports = {
   "allowedOrgs": [
     "bpmn-io",
     "camunda",
-    "camunda-cloud"
+    "camunda-cloud",
+    "zeebe-io"
   ]
 };
