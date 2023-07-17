@@ -66,5 +66,6 @@ module.exports = {
     "camunda",
     "camunda-cloud",
     "zeebe-io"
-  ]
+  ],
+  "defaultFilter": "!repo:\"bpmn-io/form-js\" !repo:\"bpmn-io/form-js-examples\" !repo:\"bpmn-io/react-form-js\" !repo:\"camunda/form-linting\" !repo:\"camunda/form-playground\""
 };
