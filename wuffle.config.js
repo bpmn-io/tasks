@@ -15,6 +15,8 @@
  *  * closed     - if the column issues must be closed
  *  * sorting    - true if column cards should be sorted
  *                 incrementally based on links
+ *  * fifo       - true to turn the default column ordering from
+ *                 last in first out to first in first out
  *  * states     - a list of board states to map to this column
  *
  * The default column is the column that holds open issues without
@@ -48,7 +50,8 @@ module.exports = {
     {
       "name": "Needs Review",
       "label": "needs review",
-      "sorting": true
+      "sorting": true,
+      "fifo": true
     },
     {
       "name": "Fixed Upstream",
