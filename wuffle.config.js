@@ -25,6 +25,7 @@
  */
 module.exports = {
   "name": "bpmn-io/tasks",
+  "description": "Tasks of the bpmn.io / Core Modeling Team at Camunda",
   "columns": [
     {
       "name": "Inbox",
