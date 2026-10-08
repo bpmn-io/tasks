@@ -43,6 +43,7 @@ default_events:
 - repository
 # - repository_import
 - status
+- sub_issues
 # - team
 # - team_add
 # - watch
