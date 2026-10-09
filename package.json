@@ -20,6 +20,7 @@
   "license": "MIT",
   "homepage": "https://github.com/bpmn-io/tasks#readme",
   "dependencies": {
+    "@sentry/node": "^11.1.0",
     "wuffle": "^0.78.0"
   },
   "engines": {
