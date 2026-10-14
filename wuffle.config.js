@@ -71,6 +71,6 @@ module.exports = {
     "camunda-cloud",
     "zeebe-io"
   ],
-  "defaultFilter": "!repo:\"camunda/copilot-solution-design\"",
+  "defaultFilter": "!repo:\"camunda/copilot-solution-design\" !label:\"needs:cla\"",
   "ignoreFilter": "repo:\"camunda/camunda-hub\" !label:\"feature/diagrams\""
 };
