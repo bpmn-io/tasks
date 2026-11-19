@@ -21,7 +21,7 @@
   "homepage": "https://github.com/bpmn-io/tasks#readme",
   "dependencies": {
     "@sentry/node": "^11.1.0",
-    "wuffle": "^0.82.1"
+    "wuffle": "^0.82.2"
   },
   "engines": {
     "node": "^24",
